@@ -1,0 +1,1 @@
+import{an as e}from"./index-Da0VozQ2.js";function s(){return e.Get("/api/settings/profile")}function i(t){return e.Put("/api/settings/profile",t)}function a(t){return e.Post("/api/settings/password",t)}export{i as a,a as b,s as f};

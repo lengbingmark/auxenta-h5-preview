@@ -1,0 +1,1 @@
+import{_ as c,C as s,D as o,aA as t,B as l,a6 as e,L as u}from"./index-Da0VozQ2.js";const r={};function d(f,i){const a=u,n=t("layout-default-uni"),_=t("global-ku-root");return l(),s(_,null,{default:o(()=>[e(n,null,{default:o(()=>[e(a,{class:""})]),_:1})]),_:1})}const m=c(r,[["render",d],["__scopeId","data-v-91508049"]]);export{m as default};
